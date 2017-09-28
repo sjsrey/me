@@ -1,5 +1,3 @@
 ## The place where emails wish they could go
 
-This is my public que. Please file an [issue](https://github.com/sjsrey/me/issues) if you want to collaborate.
-If you are a kind soul, please file a [pull request](https://github.com/sjsrey/me/pulls) to help me move things forward.
-
+This is my public que. Please file an [issue](https://github.com/sjsrey/me/issues) if you want to collaborate. It is also a place for my [ideal observer](https://en.wikipedia.org/wiki/Ideal_observer_theory) to get a workout.
